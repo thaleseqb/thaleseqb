@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello ! welcome to my Github profile 👋,
+## My name is Thales Eduardo and it is a pleasure for me share my knowledge and experiences by this platform !
 
 <!--
 **thaleseqb/thaleseqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
