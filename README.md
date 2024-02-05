@@ -2,7 +2,7 @@
 ## My name is Thales Eduardo and it is a pleasure for me share my knowledge and experiences by this platform !
 
 
-## technologies and tools
+## Technologies and tools
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
