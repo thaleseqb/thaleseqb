@@ -1,5 +1,5 @@
 # Hello ! welcome to my Github profile 👋,
-## My name is Thales Eduardo and it is a pleasure for me share my knowledge and experiences by this platform !
+## My name is Thales Eduardo and it is a pleasure for me to share my knowledge and experiences through this platform !
 
 
 ## Technologies and tools
